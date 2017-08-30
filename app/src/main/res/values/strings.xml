@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoadImage</string>
+    <string name="loadimage">Load image</string>
+    <string name="save_image">save image</string>
+</resources>
