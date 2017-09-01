@@ -56,7 +56,9 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra("imageBytes",imageUri);
                 startActivity(intent);
                // resultImageView.setImageBitmap(selectedImage);
+
             }
+
         }
     }
 }
